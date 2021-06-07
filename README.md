@@ -1,3 +1,5 @@
 # type-script-samples
-
-1. Start w/book
+___  
+### Notes
+1. https://www.typescriptlang.org/
+2. https://en.wikipedia.org/wiki/TypeScript
